@@ -39,12 +39,12 @@ Setelah **image** berhasil di-**build**, kamu dapat menjalankan website tersebut
 make container-serve
 ```
 
-Buka **browser** kamu ke http://localhost:1313 untuk melihat laman dokumentasi. Selama kamu melakukan penambahan konten, **Hugo** akan secara otomatis melakukan perubahan terhadap laman dokumentasi apabila **browser** melakukan proses **refresh**.
+Buka **Browser** kamu ke http://localhost:1313 untuk melihat laman dokumentasi. Selama kamu melakukan penambahan konten, **Hugo** akan secara otomatis melakukan perubahan terhadap laman dokumentasi apabila **Browser** melakukan proses **Refresh**.
 
 
 ## Petunjuk untuk menjalankan website pada mesin lokal dengan menggunakan Hugo
 
-Kamu dapat melihat [dokumentasi resmi Hugo](https://gohugo.io/getting-started/installing/) untuk mengetahui langkah yang diperlukan untuk melakukan instalasi **Hugo**. Pastikan kamu melakukan instalasi versi **Hugo** sesuai dengan versi yang tersedia pada **environment variable** `HUGO_VERSION` pada **file**[`netlify.toml`](netlify.toml#L9).
+Kamu dapat melihat [dokumentasi resmi Hugo](https://gohugo.io/getting-started/installing/) untuk mengetahui langkah yang diperlukan untuk melakukan instalasi **Hugo**. Pastikan kamu melakukan instalasi versi **Hugo** sesuai dengan versi yang tersedia pada **Environment variable** `HUGO_VERSION` pada **file**[`netlify.toml`](netlify.toml#L9).
 
 Untuk menjalankan laman pada mesin lokal setelah instalasi **Hugo**, kamu dapat menjalankan perintah berikut:
 
@@ -52,13 +52,13 @@ Untuk menjalankan laman pada mesin lokal setelah instalasi **Hugo**, kamu dapat 
 make serve
 ```
 
-Buka **browser** kamu ke http://localhost:1313 untuk melihat laman dokumentasi. Selama kamu melakukan penambahan konten, **Hugo** akan secara otomatis melakukan perubahan terhadap laman dokumentasi apabila **browser** melakukan proses **refresh**.
+Buka **Browser** kamu ke http://localhost:1313 untuk melihat laman dokumentasi. Selama kamu melakukan penambahan konten, **Hugo** akan secara otomatis melakukan perubahan terhadap laman dokumentasi apabila **browser** melakukan proses **refresh**.
 
-## Komunitas, Diskusi, Kontribusi, dan Bantuan
+## Komunitas, Diskusi, Kontribusi, Dan Bantuan
 
 Kamu dapat belajar bagaimana tata cara untuk ikut terlibat dalam komunitas Kubernetes melalui [laman komunitas](http://kubernetes.io/community/).
 
-Kamu dapat berinteraksi dengan **maintainers** project ini melalui:
+Kamu dapat berinteraksi dengan **Maintainers** project ini melalui:
 
 - [Slack](https://kubernetes.slack.com/messages/sig-docs)
 - [Mailing List](https://groups.google.com/forum/#!forum/kubernetes-sig-docs)
